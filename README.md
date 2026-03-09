@@ -6,7 +6,7 @@
 **Contact:** brief@bigneurons.com  
 **License:** CC BY 4.0  
 **Last updated:** March 2026  
-**DOI:** (to be assigned via Zenodo)
+**DOI:** 10.5281/zenodo.18927033
 
 ---
 
